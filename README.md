@@ -14,10 +14,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaruwatSaengowh&show_icons=true&locale=en&layout=compact" alt="JaruwatSaengowh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaruwatSaengowh&show_icons=true&locale=en" alt="JaruwatSaengowh" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaruwatSaengowh&" alt="JaruwatSaengowh" /></p>
 
 
